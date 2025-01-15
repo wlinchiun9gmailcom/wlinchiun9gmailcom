@@ -20,7 +20,7 @@
 - <b>Minmax Algorithm Implementation in Tic Tac Toe</b>
   - [Repo](https://github.com/wlinchiun9gmailcom/tictactoe)
 - <b>Movie Classification Using K-Nearest Neighbors</b>
-  - [Repo]() 
+  - [Repo](https://github.com/wlinchiun9gmailcom/movieclassification) 
 - <b>Predicting Housing Prices Using OLS</b>
   - [Repo]()
 - <b>Flagging Spam Emails With OLS</b>
