@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sam!👋 <br>I'm a research assistant🧑‍🔬, programmer👨‍💻, and data analyst🤵📊 studying at UC Berkeley🌉. </h1>
 
-<h2>💻 Web Development Projects:</h2>
+<h2>💻 Web Development Projects</h2>
 
 - <b>UC Berkeley Model United Nations Website</b>
   - [UCBMUN Conference Page](https://ucbmun.com/)
@@ -8,9 +8,13 @@
 
 <h2>🔬 Research Projects</h2>
 
-- <b>Educational Nonprofit Research</b>
+- <b>Educational Nonprofit Research @ The Ed&Orgs Lab</b>
   - [The Ecology of Educational Nonprofits (Download Link)](https://osf.io/download/66d30c715855ae4ec17992ae/)
   - [Lab Repository](https://github.com/daniellancet/Ed_Org_Ecology)
+
+- <b>Long COVID Research @ The Center for Targeted Machine Learning</b>
+  - [About my Research Group](https://publichealth.berkeley.edu/covid-19/berkeley-research-teams-wins-prize-for-long-covid-prediction-model)
+  - Preprints of my three papers coming soon!
 
 <h2> 🤳 Connect with me:</h2>
 
