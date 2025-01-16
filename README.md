@@ -17,14 +17,14 @@
 
 <h2>🧠⚡ Artificial Intelligence/Machine Learning Projects</h2>
 
+- <b>Flagging Spam Emails With OLS</b>
+  - [Repo](https://github.com/wlinchiun9gmailcom/spamorham)
 - <b>Minmax Algorithm Implementation in Tic Tac Toe</b>
   - [Repo](https://github.com/wlinchiun9gmailcom/tictactoe)
 - <b>Movie Classification Using K-Nearest Neighbors</b>
   - [Repo](https://github.com/wlinchiun9gmailcom/movieclassification) 
 - <b>Predicting Housing Prices Using OLS</b>
-  - [Repo]()
-- <b>Flagging Spam Emails With OLS</b>
-  - [Repo]()
+  - [Repo](https://github.com/wlinchiun9gmailcom/housingii/blob/main/projA2.ipynb)
 
 <h2>📰 Data Journalism</h2>
 
