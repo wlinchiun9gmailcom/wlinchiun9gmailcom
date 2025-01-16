@@ -35,6 +35,17 @@
   - [Website](https://dailycal-projects.netlify.app/)
   - [Our Github](https://github.com/dailycal-projects)
 
+<h2>🏫 Class Projects</h2>
+
+- <b>Gitlet -- Creating a Fully-Functional File Tracking System</b>
+  - [Repo](https://github.com/wlinchiun9gmailcom/gitlet)
+- <b>Scheme Interpreter -- Interprets a Dialect of Lisp</b>
+  - [Repo](https://github.com/wlinchiun9gmailcom/schemeinterpreter)
+- <b>Typing Game with Spellcheck</b>
+  - [Repo](https://github.com/wlinchiun9gmailcom/cats)
+- <b>Mini World Exploration Game</b>
+  - [Repo](https://github.com/wlinchiun9gmailcom/buildyourownworld)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
