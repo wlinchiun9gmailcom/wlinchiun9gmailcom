@@ -2,9 +2,11 @@
 
 <h2>💻 Web Development Projects</h2>
 
-- <b>UC Berkeley Model United Nations Website</b><div>
+- <b>UC Berkeley Model United Nations Website</b>
   - [UCBMUN Conference Page](https://ucbmun.com/)
-  - [UCBMUN Github](https://github.com/UCBMUN/ucbmun.github.io)</div>
+  - [UCBMUN Github](https://github.com/UCBMUN/ucbmun.github.io)
+- <b>Jupyterhealth</b>
+  - [Homepage](https://jupyterhealth.org/#hero)
 
 <h2>🔬 Research Projects</h2>
 
