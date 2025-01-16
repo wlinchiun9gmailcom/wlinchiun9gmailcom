@@ -7,6 +7,7 @@
   - [UCBMUN Github](https://github.com/UCBMUN/ucbmun.github.io)
 - <b>Jupyterhealth</b>
   - [Homepage](https://jupyterhealth.org/#hero)
+  - [Homepage](https://github.com/jupyterhealth)
 
 <h2>🔬 Research Projects</h2>
 
