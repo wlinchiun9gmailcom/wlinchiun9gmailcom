@@ -18,19 +18,19 @@
 <h2>🧠⚡ Artificial Intelligence/Machine Learning Projects</h2>
 
 - <b>Flagging Spam Emails With OLS</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/spamorham)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/spamorham)
 - <b>Minmax Algorithm Implementation in Tic Tac Toe</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/tictactoe)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/tictactoe)
 - <b>Movie Classification Using K-Nearest Neighbors</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/movieclassification) 
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/movieclassification) 
 - <b>Predicting Housing Prices Using OLS</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/housingii/blob/main/projA2.ipynb)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/housingii/blob/main/projA2.ipynb)
 
 <h2>📰 Data Journalism</h2>
 
 - <b>What's Next for Baypass?</b>
   - [Article](https://dailycalprojects.vercel.app/article/what-s-next-for-baypass)
-  - [Repo](https://github.com/tylerwu2222/dailycalprojectsv2)
+  - [Code](https://github.com/tylerwu2222/dailycalprojectsv2)
 - <b>Daily Cal Data Desk</b>
   - [Website](https://dailycal-projects.netlify.app/)
   - [Our Github](https://github.com/dailycal-projects)
@@ -38,13 +38,13 @@
 <h2>🏫 Class Projects</h2>
 
 - <b>Gitlet -- Creating a Fully-Functional File Tracking System</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/gitlet)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/gitlet)
 - <b>Scheme Interpreter -- Interprets a Dialect of Lisp</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/schemeinterpreter)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/schemeinterpreter)
 - <b>Typing Game with Spellcheck</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/cats)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/cats)
 - <b>Mini World Exploration Game</b>
-  - [Repo](https://github.com/wlinchiun9gmailcom/buildyourownworld)
+  - [Github Repo](https://github.com/wlinchiun9gmailcom/buildyourownworld)
 
 <h2> 🤳 Connect with me:</h2>
 
