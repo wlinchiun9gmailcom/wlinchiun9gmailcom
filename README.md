@@ -26,6 +26,15 @@
 - <b>Flagging Spam Emails With OLS</b>
   - [Repo]()
 
+<h2>📰 Data Journalism</h2>
+
+- <b>What's Next for Baypass?</b>
+  - [Article](https://dailycalprojects.vercel.app/article/what-s-next-for-baypass)
+  - [Repo](https://github.com/tylerwu2222/dailycalprojectsv2)
+- <b>Daily Cal Data Desk</b>
+  - [Website](https://dailycal-projects.netlify.app/)
+  - [Our Github](https://github.com/dailycal-projects)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
