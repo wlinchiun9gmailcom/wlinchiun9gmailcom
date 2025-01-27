@@ -11,6 +11,8 @@
 
 <h2>🔬 Research Projects</h2>
 
+- <b>Berkeley Artificial Intelligence Research Lab</b>
+  - [Berkeley Speech Group](https://people.eecs.berkeley.edu/~gopala/)
 - <b>Educational Nonprofit Research @ The Ed&amp;Orgs Lab</b>
   - [The Ecology of Educational Nonprofits (Download Link)](https://osf.io/download/66d30c715855ae4ec17992ae/)
   - [Lab Repository](https://github.com/daniellancet/Ed_Org_Ecology)
