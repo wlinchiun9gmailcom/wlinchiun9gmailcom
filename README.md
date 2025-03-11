@@ -18,7 +18,6 @@
   - [Lab Repository](https://github.com/daniellancet/Ed_Org_Ecology)
 - <b>Long COVID Research @ The Center for Targeted Machine Learning</b>
   - [About my Research Group](https://publichealth.berkeley.edu/covid-19/berkeley-research-teams-wins-prize-for-long-covid-prediction-model)
-  - Preprints of my three papers coming soon!
 
 <h2>🧠⚡ Artificial Intelligence/Machine Learning Projects</h2>
 
