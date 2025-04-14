@@ -9,7 +9,7 @@
   - [JH Homepage](https://jupyterhealth.org/#hero)
   - [JH Github](https://github.com/jupyterhealth)
 
-<h2>🔬 Research Projects</h2>
+<h2>🔬 Research Groups</h2>
 
 - <b>Berkeley Artificial Intelligence Research Lab</b>
   - [Berkeley Speech Group](https://people.eecs.berkeley.edu/~gopala/)
